@@ -2,7 +2,6 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import About from "./components/About";
-import Testimonials from "./components/Testimonials";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import BlurBackground from "./components/BlurBackground";
@@ -17,8 +16,7 @@ const App = () => {
         <Hero />
         <Projects />
         <About />
-        <Experience />
-        <Testimonials />
+        <Experience /> 
         <Contact />
       </main>
     </>
