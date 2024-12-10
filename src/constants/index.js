@@ -23,9 +23,9 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Jason Root, a creative frontend developer, crafting immersive and intuitive web experiences.",
+    "I’m Oscar Ruelas, I'm a undergrad student at Eastern Washington University studying Computer Science.",
   description:
-    "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
+    "I'm passionate about creating new things and learning new technologies. I'm always looking for new opportunities to grow and expand my knowledge.",
   resumeLinkText: "Download Resume",
   resumeLink: "/resume.pdf",
 };
@@ -156,29 +156,23 @@ export const TESTIMONIALS = [
 ];
 
 export const CONTACT_CONTENT = {
-  headline: "LET'S WORK ON SOMETHING GREAT",
+  headline: "I'm excited to hear about new opportunities!",
   description:
-    "I'm excited to collaborate on projects that push boundaries and create meaningful impact. Let's build something innovative and exceptional together.",
-  email: "jason@example.com",
+    "Whether you want to hire me for your next project, have a question, or just want to say hi, feel free to get in touch. I'm always open to new connections and collaborations.",
+  email: "oruelas@ewu.edu",
   socialLinks: [
     {
-      platform: "Twitter",
-      url: "https://twitter.com/yourprofile",
-      ariaLabel: "Follow me on Twitter",
-      icon: "RiTwitterXFill",
-    },
-    {
       platform: "GitHub",
-      url: "https://github.com/yourprofile",
+      url: "https://github.com/Oscar-Ruelas",
       ariaLabel: "View my GitHub profile",
       icon: "RiGithubFill",
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com/in/yourprofile",
+      url: "https://www.linkedin.com/in/oscar-ruelas-9aaa2a195/",
       ariaLabel: "Connect with me on LinkedIn",
       icon: "RiLinkedinFill",
     },
   ],
-  footerText: `© ${new Date().getFullYear()} Jason Root. All rights reserved.`,
+  footerText: `© ${new Date().getFullYear()} Oscar Ruelas. All rights reserved.`,
 };

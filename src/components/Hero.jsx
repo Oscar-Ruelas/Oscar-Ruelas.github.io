@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import jason from "../assets/jason-root.webp";
+import Self from "../assets/Self.webp";
 import { HERO_CONTENT } from "../constants";
 
 const textVariants = {
@@ -75,8 +75,8 @@ const Hero = () => {
           variants={imageVariants}
         >
           <img
-            src={jason}
-            alt="Jason Root"
+            src= {Self}
+            alt="Oscar Ruelas"
             width={650}
             height={650}
             className="rounded-3xl"
